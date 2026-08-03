@@ -1,0 +1,6 @@
+{
+  "name": "Nuvo",
+  "description": "A collaborative, real-time photo booth to capture moments with friends across screens.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
